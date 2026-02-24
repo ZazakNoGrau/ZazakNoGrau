@@ -1,4 +1,4 @@
-## Hi 👋, My name is Gregoy Isaac, sou estudante do IF BAIANO Senhor do Bonfim - BA.
+## Hi 👋, My name is Gregoy Isaac, sou estudante do IF BAIANO de Senhor do Bonfim - BA.
 
 <!--
 **ZazakNoGrau/ZazakNoGrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
